@@ -4,4 +4,5 @@ def defence():
     print ("stop the ball & pass it to same team member")
 kickoff()
 defence()
+print ("game over")
 
